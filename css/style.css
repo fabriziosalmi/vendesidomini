@@ -249,3 +249,6 @@ label{
     border: none !important;
     border-color: transparent !important;
 }
+.btn-group-lg > .btn, .btn-lg {
+  font-size: 1.65rem;
+}
